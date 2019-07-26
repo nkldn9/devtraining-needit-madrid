@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="NewSec" section_id="9f5dc2e6db363300be0b5385ca9619d5" sys_domain="global" table="x_58872_needit_needit" version="3" view="View_one">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user_input</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 12:24:20</sys_created_on>
+            <sys_id>17cdc666db363300be0b5385ca961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NewSec" display_value="NewSec" name="x_58872_needit_needit" sys_domain="global" view="4ad606e2db363300be0b5385ca961924">9f5dc2e6db363300be0b5385ca9619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 12:24:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 12:24:20</sys_created_on>
+            <sys_id>d7cdc666db363300be0b5385ca961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NewSec" display_value="NewSec" name="x_58872_needit_needit" sys_domain="global" view="4ad606e2db363300be0b5385ca961924">9f5dc2e6db363300be0b5385ca9619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 12:24:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>knowledge</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 12:24:20</sys_created_on>
+            <sys_id>5bcdc666db363300be0b5385ca961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NewSec" display_value="NewSec" name="x_58872_needit_needit" sys_domain="global" view="4ad606e2db363300be0b5385ca961924">9f5dc2e6db363300be0b5385ca9619d5</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 12:24:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>NewSec</caption>
+            <header>false</header>
+            <name>x_58872_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-25 12:22:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f5dc2e6db363300be0b5385ca9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>NewSec</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_section_9f5dc2e6db363300be0b5385ca9619d5</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-25 12:22:24</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="View one" name="View_one">4ad606e2db363300be0b5385ca961924</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
